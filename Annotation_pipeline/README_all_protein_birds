@@ -1,0 +1,184 @@
+# Gallus gallus (chicken)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/315/GCF_000002315.4_Gallus_gallus-5.0/GCF_000002315.4_Gallus_gallus-5.0_protein.faa.gz
+Scaffold N50	6,379,610
+Contig N50	2,894,815
+
+gunzip GCF_000002315.4_Gallus_gallus-5.0_protein.faa.gz
+
+
+# Taeniopygia guttata (zebra finch)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/151/805/GCF_000151805.1_Taeniopygia_guttata-3.2.4/GCF_000151805.1_Taeniopygia_guttata-3.2.4_protein.faa.gz
+Scaffold N50	8,236,790
+Contig N50	38,639
+
+gunzip GCF_000151805.1_Taeniopygia_guttata-3.2.4_protein.faa.gz
+
+# Ficedula albicollis (collared flycatcher)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/247/815/GCA_000247815.2_FicAlb1.5/GCA_000247815.2_FicAlb1.5_protein.faa.gz
+Scaffold N50	5,639
+Contig N50	4,718
+
+# Pseudopodoces humilis (Tibetan ground-tit)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/331/425/GCF_000331425.1_PseHum1.0/GCF_000331425.1_PseHum1.0_protein.faa.gz
+Scaffold N50	16,337,386
+Contig N50	165,265
+
+gunzip GCF_000331425.1_PseHum1.0_protein.faa.gz
+
+# Aquila chrysaetos (golden eagle)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/766/835/GCF_000766835.1_Aquila_chrysaetos-1.0.2/GCF_000766835.1_Aquila_chrysaetos-1.0.2_protein.faa.gz
+Scaffold N50	9,230,743
+Contig N50	172,329
+
+gunzip GCF_000766835.1_Aquila_chrysaetos-1.0.2_protein.faa.gz
+
+# Melopsittacus undulatus (budgerigar)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/238/935/GCF_000238935.1_Melopsittacus_undulatus_6.3/GCF_000238935.1_Melopsittacus_undulatus_6.3_protein.faa.gz
+Scaffold N50	10,614,383
+Contig N50	55,633
+
+gunzip GCF_000238935.1_Melopsittacus_undulatus_6.3_protein.faa.gz
+
+# Aptenodytes forsteri (emperor penguin)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/699/145/GCF_000699145.1_ASM69914v1/GCF_000699145.1_ASM69914v1_protein.faa.gz
+Scaffold N50	5,071,598
+Contig N50	31,730
+
+gunzip GCF_000699145.1_ASM69914v1_protein.faa.gz
+
+# Pygoscelis adeliae (Adelie penguin)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/699/105/GCF_000699105.1_ASM69910v1/GCF_000699105.1_ASM69910v1_protein.faa.gz
+Scaffold N50	5,118,896
+Contig N50	22,195
+
+# Cathartes aura (turkey vulture)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/699/945/GCA_000699945.1_ASM69994v1/GCA_000699945.1_ASM69994v1_protein.faa.gz
+Scaffold N50	36,359
+Contig N50	15,248
+
+# Pelecanus crispus (Dalmatian pelican)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/687/375/GCF_000687375.1_ASM68737v1/GCF_000687375.1_ASM68737v1_protein.faa.gz
+Scaffold N50	43,364
+Contig N50	21,679
+
+# Phalacrocorax carbo (great cormorant)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/708/925/GCF_000708925.1_ASM70892v1/GCF_000708925.1_ASM70892v1_protein.faa.gz
+Scaffold N50	48,427
+Contig N50	17,343
+
+# Fulmarus glacialis (northern fulmar)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/690/835/GCF_000690835.1_ASM69083v1/GCF_000690835.1_ASM69083v1_protein.faa.gz
+Scaffold N50	47,208
+Contig N50	25,926
+
+# Gavia stellata (red-throated loon)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/690/875/GCF_000690875.1_ASM69087v1/GCF_000690875.1_ASM69087v1_protein.faa.gz
+Scaffold N50	45,523
+Contig N50	24,321
+
+# Phaethon lepturus (white-tailed tropicbird)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/687/285/GCF_000687285.1_ASM68728v1/GCF_000687285.1_ASM68728v1_protein.faa.gz
+Scaffold N50	47,896
+Contig N50	22,941
+
+# Charadrius vociferus (killdeer)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/708/025/GCF_000708025.1_ASM70802v2/GCF_000708025.1_ASM70802v2_protein.faa.gz
+Scaffold N50	3,657,050
+Contig N50	39,278
+
+gunzip GCF_000708025.1_ASM70802v2_protein.faa.gz
+
+#Podiceps cristatus (great crested grebe)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/699/545/GCA_000699545.1_ASM69954v1/GCA_000699545.1_ASM69954v1_protein.faa.gz
+Scaffold N50	30,087
+Contig N50	17,412
+
+#Phoenicopterus ruber (American flamingo)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/687/265/GCA_000687265.1_ASM68726v1/GCA_000687265.1_ASM68726v1_protein.faa.gz
+Scaffold N50	38,071
+Contig N50	20,262
+
+#Anas platyrhynchos (mallard)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/355/885/GCF_000355885.1_BGI_duck_1.0/GCF_000355885.1_BGI_duck_1.0_protein.faa.gz
+Scaffold N50	1,233,631
+Contig N50	26,114
+
+gunzip GCF_000355885.1_BGI_duck_1.0_protein.faa.gz
+
+#Struthio camelus (African ostrich)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/698/965/GCF_000698965.1_ASM69896v1/GCF_000698965.1_ASM69896v1_protein.faa.gz
+Scaffold N50	3,593,425
+Contig N50	34,997
+
+#Serinus canaria (common canary)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/534/875/GCF_000534875.1_SCA1/GCF_000534875.1_SCA1_protein.faa.gz
+Scaffold N50	17,815,079
+Contig N50	53,884
+
+#Zonotrichia albicollis (white-throated sparrow)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/385/455/GCF_000385455.1_Zonotrichia_albicollis-1.0.1/GCF_000385455.1_Zonotrichia_albicollis-1.0.1_protein.faa.gz
+Scaffold N50	4,866,725
+Contig N50	112,748
+
+gunzip GCF_000385455.1_Zonotrichia_albicollis-1.0.1_protein.faa.gz
+
+#Corvus cornix (hooded crow)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/738/735/GCF_000738735.1_Hooded_Crow_genome/GCF_000738735.1_Hooded_Crow_genome_protein.faa.gz
+Scaffold N50	16,358,221
+Contig N50	94,375
+
+#Nipponia nippon (crested ibis)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/708/225/GCF_000708225.1_ASM70822v1/GCF_000708225.1_ASM70822v1_protein.faa.gz
+Scaffold N50	5,211,696
+Contig N50	29,116
+
+gunzip GCF_000708225.1_ASM70822v1_protein.faa.gz
+
+#Anolis carolinensis (green anole)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/090/745/GCF_000090745.1_AnoCar2.0/GCF_000090745.1_AnoCar2.0_protein.faa.gz
+Scaffold N50	4,033,265
+Contig N50	79,867
+
+gunzip GCF_000090745.1_AnoCar2.0_protein.faa.gz
+
+#Crocodylus porosus (Australian saltwater crocodile)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/723/895/GCF_001723895.1_CroPor_comp1/GCF_001723895.1_CroPor_comp1_protein.faa.gz
+Scaffold N50	84,437,661
+Contig N50	34,073
+
+gunzip GCF_001723895.1_CroPor_comp1_protein.faa.gz
+
+# Malaclemys terrapin (diamondback terrapin)
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/728/815/GCA_001728815.2_terp_v2_2/GCA_001728815.2_terp_v2_2_protein.faa.gz
+Contig N50	437,266
+
+#Chrysemys picta (painted turtle)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/241/765/GCF_000241765.3_Chrysemys_picta_bellii-3.0.3/GCF_000241765.3_Chrysemys_picta_bellii-3.0.3_protein.faa.gz
+Scaffold N50	6,605,846
+Contig N50	21,349
+
+gunzip GCF_000241765.3_Chrysemys_picta_bellii-3.0.3_protein.faa.gz
+
+#Homo sapiens (human)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.35_GRCh38.p9/GCF_000001405.35_GRCh38.p9_protein.faa.gz
+Scaffold N50	59,364,414
+Contig N50	56,413,054
+
+gunzip GCF_000001405.35_GRCh38.p9_protein.faa.gz
+
+#Mus musculus (house mouse)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/635/GCF_000001635.25_GRCm38.p5/GCF_000001635.25_GRCm38.p5_protein.faa.gz
+Scaffold N50	52,589,046
+Contig N50	32,273,079
+
+gunzip GCF_000001635.25_GRCm38.p5_protein.faa.gz
+
+#Danio rerio (zebrafish)
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/002/035/GCF_000002035.5_GRCz10/GCF_000002035.5_GRCz10_protein.faa.gz
+Scaffold N50	2,181,225
+Contig N50	1,258,148
+
+gunzip GCF_000002035.5_GRCz10_protein.faa.gz
+
+
+cat *protein.faa > all_protein_multiple_organisms.faa
